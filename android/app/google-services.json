@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657297514665",
+    "project_id": "react-native-learn-78786",
+    "storage_bucket": "react-native-learn-78786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657297514665:android:3c024935f29b1618c509b8",
+        "android_client_info": {
+          "package_name": "com.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657297514665-jg4g0d12o6lkbm4chf1tlqad5f7tbgig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWGd7rIaGdDNadBfvCehQPnT0IkyZDzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657297514665-jg4g0d12o6lkbm4chf1tlqad5f7tbgig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
